@@ -1,0 +1,10 @@
+bundle.js
+node_modules/*
+public/uploads/*
+npm-debug.log
+.DS_Store
+err.log
+out.log
+webpack.log
+.tm_properties
+static/js/bundle.js
