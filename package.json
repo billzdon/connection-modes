@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/billzdon/connection-modes/issues"
   },
-  "homepage": "https://github.com/billzdon/connection-modes#readme"
+  "homepage": "https://github.com/billzdon/connection-modes#readme",
+  "dependencies": {
+    "superagent": "^3.5.0",
+    "uuid": "^3.0.1"
+  }
 }
