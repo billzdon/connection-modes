@@ -2,7 +2,7 @@
   "name": "connection-modes",
   "version": "1.0.0",
   "description": "latency based connection modes",
-  "main": "latency-tracker.js",
+  "main": "lib/latency-tracker.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
