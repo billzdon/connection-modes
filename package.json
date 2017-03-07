@@ -1,6 +1,6 @@
 {
   "name": "connection-modes",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "latency based connection modes",
   "main": "lib/latency-tracker.js",
   "scripts": {
